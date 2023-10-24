@@ -50,7 +50,7 @@ dependencies:
   fast_cached_network_image: ^1.1.1
   path_provider: ^2.0.14
   shimmer: ^2.0.0
-  crop_your_image: ^0.7.4
+  crop_your_image: ^0.7.5
   uuid: ^3.0.7
 
   cached_network_image: ^3.2.3

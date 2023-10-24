@@ -286,7 +286,8 @@ class RL extends GetxController with StateMixin<RS>{
         printInfo(info: 'Companies: ${rS.rM.companyMList.companyMList.length}');
 
         /// products
-        await getProducts(rS.rM.shopMList.shopMList[0].id, rS.rM.productMList.pageIndex);
+        //await getProducts(rS.rM.shopMList.shopMList[0].id, rS.rM.productMList.pageIndex);
+        await getProducts(rS.rM.shopMList.shopMList[0].id);
 
         update();
         client.close();

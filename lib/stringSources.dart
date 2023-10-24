@@ -1,7 +1,8 @@
 class SS{
 
   static const String _apiName = 'little devil';
-  static const String _apiHost = '1557-145-101-16-69.eu.ngrok.io';
+  static const String _apiHost = '377a-109-235-39-60.ngrok-free.app';
+      ///'1557-145-101-16-69.eu.ngrok.io';
 
   static const String _api = 'api/';
 
